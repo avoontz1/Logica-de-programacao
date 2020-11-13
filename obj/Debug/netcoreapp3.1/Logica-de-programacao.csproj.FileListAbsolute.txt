@@ -1,0 +1,11 @@
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programacao.exe
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programacao.deps.json
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programacao.runtimeconfig.json
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programacao.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programacao.dll
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programacao.pdb
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.AssemblyInfo.cs
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.dll
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programacao.pdb
